@@ -1,0 +1,60 @@
+[2023-04-06T16:05:06.895Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0 WebSocket connection to 'wss://127.0.0.1:13579/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+[2023-04-06T16:05:06.896Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0 WebSocket connection to 'wss://127.0.0.1:13579/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+[2023-04-06T16:05:06.896Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0 WebSocket connection to 'wss://127.0.0.1:13579/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+[2023-04-06T16:05:07.666Z] [SEVERE] https://demo-business.berekebank.kz/site.webmanifest - Failed to load resource: the server responded with a status of 401 ()
+[2023-04-06T16:05:07.666Z] [SEVERE] https://demo-business.berekebank.kz/site.webmanifest 0 Manifest: Line: 1, column: 1, Syntax error.
+[2023-04-06T16:05:09.981Z] [SEVERE] https://demo-business.berekebank.kz/api/news/last-news - Failed to load resource: the server responded with a status of 500 ()
+[2023-04-06T16:05:09.981Z] [WARNING] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0:2358822 Object
+[2023-04-06T16:05:09.981Z] [SEVERE] https://demo-business.berekebank.kz/api/news/last-news - Failed to load resource: the server responded with a status of 500 ()
+[2023-04-06T16:05:09.981Z] [SEVERE] https://demo-business.berekebank.kz/customer/login 0:0 Uncaught Object: {
+  "message" : "error.internalServerError",
+  "me…: null,
+  "fieldErrors" : null,
+  "code" : null
+}
+[2023-04-06T16:05:19.986Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js 1:1667302 TypeError: Cannot read properties of undefined (reading 'prepareStyles')
+    at t.value (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1857928)
+    at Ya (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1656605)
+    at qa (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1656402)
+    at Gs (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1697347)
+    at Tu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683515)
+    at Mu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683443)
+    at Eu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683306)
+    at bu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1680272)
+    at https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1629766
+    at t.unstable_runWithPriority (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1707003)
+[2023-04-06T16:05:19.986Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0:422502 TypeError: Cannot read properties of undefined (reading 'prepareStyles')
+    at t.value (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1857928)
+    at Ya (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1656605)
+    at qa (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1656402)
+    at Gs (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1697347)
+    at Tu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683515)
+    at Mu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683443)
+    at Eu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683306)
+    at bu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1680272)
+    at https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1629766
+    at t.unstable_runWithPriority (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1707003)
+[2023-04-06T16:05:19.986Z] [SEVERE] https://demo-business.berekebank.kz/api/v1/creditmicrotype/ismicro/false - Failed to load resource: the server responded with a status of 500 ()
+[2023-04-06T16:05:19.994Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0:421559 Object
+[2023-04-06T16:05:19.996Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js 1:1667302 TypeError: Cannot read properties of undefined (reading 'prepareStyles')
+    at t.value (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1857928)
+    at Ya (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1656605)
+    at qa (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1656402)
+    at Gs (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1697347)
+    at Tu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683515)
+    at Mu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683443)
+    at Eu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683306)
+    at bu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1680272)
+    at https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1629766
+    at t.unstable_runWithPriority (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1707003)
+[2023-04-06T16:05:19.996Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0:191168 TypeError: Cannot read properties of undefined (reading 'prepareStyles')
+    at t.value (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1857928)
+    at Ya (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1656605)
+    at qa (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1656402)
+    at Gs (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1697347)
+    at Tu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683515)
+    at Mu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683443)
+    at Eu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1683306)
+    at bu (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1680272)
+    at https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1629766
+    at t.unstable_runWithPriority (https://demo-business.berekebank.kz/customer/static/js/3.324eb369.chunk.js:2:1707003)

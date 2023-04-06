@@ -1,0 +1,14 @@
+[2023-04-06T16:02:12.691Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0 WebSocket connection to 'wss://127.0.0.1:13579/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+[2023-04-06T16:02:12.691Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0 WebSocket connection to 'wss://127.0.0.1:13579/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+[2023-04-06T16:02:12.692Z] [SEVERE] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0 WebSocket connection to 'wss://127.0.0.1:13579/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+[2023-04-06T16:02:13.117Z] [SEVERE] https://demo-business.berekebank.kz/site.webmanifest - Failed to load resource: the server responded with a status of 401 ()
+[2023-04-06T16:02:13.117Z] [SEVERE] https://demo-business.berekebank.kz/site.webmanifest 0 Manifest: Line: 1, column: 1, Syntax error.
+[2023-04-06T16:02:20.495Z] [SEVERE] https://demo-business.berekebank.kz/api/news/last-news - Failed to load resource: the server responded with a status of 500 ()
+[2023-04-06T16:02:20.495Z] [WARNING] https://demo-business.berekebank.kz/customer/static/js/main.53e25fdd.chunk.js 0:2358822 Object
+[2023-04-06T16:02:20.495Z] [SEVERE] https://demo-business.berekebank.kz/api/news/last-news - Failed to load resource: the server responded with a status of 500 ()
+[2023-04-06T16:02:20.495Z] [SEVERE] https://demo-business.berekebank.kz/customer/login 0:0 Uncaught Object: {
+  "message" : "error.internalServerError",
+  "me…: null,
+  "fieldErrors" : null,
+  "code" : null
+}

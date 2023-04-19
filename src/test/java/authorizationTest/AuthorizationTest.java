@@ -37,7 +37,9 @@ public class AuthorizationTest extends TestBase {
         step("Проверяем открытия сайта",()->{
             $("[data-tour-hint=main-layout-sider]").shouldHave(text("Помощь"));
         });
-
-
+        step("Создаем платеж",()->{
+            $("[data-qa=navigation_payments_and_transfers]").click();
+            $(".doc-ctrl-add").click();
+        });
     }
 }

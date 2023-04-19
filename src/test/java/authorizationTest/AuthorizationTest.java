@@ -40,6 +40,7 @@ public class AuthorizationTest extends TestBase {
         step("Создаем платеж",()->{
             $("[data-qa=navigation_payments_and_transfers]").click();
             $(".doc-ctrl-add").click();
+            $(".exchange-form").shouldHave(text("Создание Платежного поручения"));
         });
     }
 }
